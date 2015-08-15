@@ -1,0 +1,39 @@
+﻿Build started 2015/8/15 16:49:16.
+     1>Project "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\Assignment1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"../ThirdParty/FreeImage-3170/Source" /I"../ThirdParty/glew-1.10.0/include" /I"../ThirdParty/glfw-3.0.4/include" /I../ThirdParty/glm /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/" /Fd"C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Source\FirstPersonCamera.cpp
+         FirstPersonCamera.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Bin/Assignment1-Debug.exe" /INCREMENTAL /NOLOGO /LIBPATH:"../ThirdParty/FreeImage-3170/lib/Win32" /LIBPATH:"../ThirdParty/glew-1.10.0/lib/Release/Win32" /LIBPATH:"../ThirdParty/glfw-3.0.4/lib/Win32/lib-msvc110" FreeImage.lib opengl32.lib glew32s.lib glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Bin/Assignment1-Debug.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Bin/Assignment1-Debug.lib" /MACHINE:X86 "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/Animation.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/Billboard.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/BSpline.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/Camera.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/Collision.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/FirstPersonCamera.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/map.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/objloader.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/ParticleDescriptor.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/ParticleEmitter.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/ParticleSystem.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/quaternion_utils.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/shader.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/SphereModel.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/StaticCamera.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/EventManager.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/main.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/Model.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/CubeModel.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/Renderer.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/tangentspace.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/text2D.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/texture.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/TextureLoader.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/ThirdPersonCamera.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/vboindexer.obj"
+         "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Build/Debug/World.obj"
+         Assignment1.vcxproj -> C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\/../Bin/Assignment1-Debug.exe
+     1>Done Building Project "C:\Users\viviane\Desktop\comp371\COMP371-mike\Framework\VS2012\Assignment1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.90
